@@ -26,3 +26,6 @@ A minimal README file :)
 
 ## `reveal.js/`
 The 3.5.0 [reveal.js](https://github.com/hakimel/reveal.js/) release. It's what the default nbconvert template expects to be using.
+
+# Post-gen
+The generated project will be already git-initialized (check the post-gen script), so that `reveal.js` is already initialized at the 3.5.0 release. You can then set the remote and be ready to go!
